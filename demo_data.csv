@@ -1,0 +1,301 @@
+text,label,clean_text
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+Awful product. Do not buy!,negative,awful product do not buy!
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Absolutely wonderful, five stars. http://example.com",positive,absolutely wonderful five stars
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+Check this out Works as described.,neutral,check this out works as described
+"Check this out Terrible service, very disappointed.",negative,check this out terrible service very disappointed
+"Check this out Really bad experience, will never come back.",negative,check this out really bad experience will never come back
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Really bad experience, will never come back. :)",negative,really bad experience will never come back
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Check this out Absolutely wonderful, five stars.",positive,check this out absolutely wonderful five stars
+"Check this out Really bad experience, will never come back.",negative,check this out really bad experience will never come back
+Check this out Awful product. Do not buy!,negative,check this out awful product do not buy!
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Best experience ever, highly recommend to everyone. http://example.com",positive,best experience ever highly recommend to everyone
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+Awful product. Do not buy! :),negative,awful product do not buy!
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"Terrible service, very disappointed. :)",negative,terrible service very disappointed
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Check this out One star, extremely poor quality.",negative,check this out one star extremely poor quality
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+Awful product. Do not buy!,negative,awful product do not buy!
+Product is fine for the price.,neutral,product is fine for the price
+"One star, extremely poor quality.",negative,one star extremely poor quality
+Check this out Awful product. Do not buy!,negative,check this out awful product do not buy!
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+Awful product. Do not buy! :),negative,awful product do not buy!
+"Not sure how I feel about it, it's indifferent.",neutral,not sure how i feel about it its indifferent
+So satisfied! Exceeded my expectations. http://example.com,positive,so satisfied! exceeded my expectations
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+Awful product. Do not buy!,negative,awful product do not buy!
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+Awful product. Do not buy! http://example.com,negative,awful product do not buy!
+Works as described.,neutral,works as described
+Works as described.,neutral,works as described
+Works as described.,neutral,works as described
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"Check this out Really bad experience, will never come back.",negative,check this out really bad experience will never come back
+Awful product. Do not buy!,negative,awful product do not buy!
+"I hate this, it's the worst purchase I've made. :)",negative,i hate this its the worst purchase ive made
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"One star, extremely poor quality. :)",negative,one star extremely poor quality
+"Absolutely wonderful, five stars. http://example.com",positive,absolutely wonderful five stars
+"Check this out Best experience ever, highly recommend to everyone. http://example.com",positive,check this out best experience ever highly recommend to everyone
+"Check this out It's okay, nothing special about it.",neutral,check this out its okay nothing special about it
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+Check this out So satisfied! Exceeded my expectations. :),positive,check this out so satisfied! exceeded my expectations
+"Not sure how I feel about it, it's indifferent. :)",neutral,not sure how i feel about it its indifferent
+"One star, extremely poor quality. http://example.com",negative,one star extremely poor quality
+"It's okay, nothing special about it.",neutral,its okay nothing special about it
+"Average experience, neither good nor bad. :)",neutral,average experience neither good nor bad
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Not sure how I feel about it, it's indifferent.",neutral,not sure how i feel about it its indifferent
+"Absolutely wonderful, five stars. http://example.com",positive,absolutely wonderful five stars
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"One star, extremely poor quality. :)",negative,one star extremely poor quality
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Check this out Best experience ever, highly recommend to everyone.",positive,check this out best experience ever highly recommend to everyone
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+"One star, extremely poor quality. :)",negative,one star extremely poor quality
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+Works as described.,neutral,works as described
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+So satisfied! Exceeded my expectations. :),positive,so satisfied! exceeded my expectations
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+Awful product. Do not buy!,negative,awful product do not buy!
+"I love the new product, it's fantastic and works great! http://example.com",positive,i love the new product its fantastic and works great!
+Check this out Works as described.,neutral,check this out works as described
+"Not sure how I feel about it, it's indifferent.",neutral,not sure how i feel about it its indifferent
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+Check this out So satisfied! Exceeded my expectations.,positive,check this out so satisfied! exceeded my expectations
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Average experience, neither good nor bad. :) http://example.com",neutral,average experience neither good nor bad
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"I love the new product, it's fantastic and works great! :)",positive,i love the new product its fantastic and works great!
+"Check this out I love the new product, it's fantastic and works great!",positive,check this out i love the new product its fantastic and works great!
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Not sure how I feel about it, it's indifferent.",neutral,not sure how i feel about it its indifferent
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+Awful product. Do not buy!,negative,awful product do not buy!
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+Awful product. Do not buy! :),negative,awful product do not buy!
+So satisfied! Exceeded my expectations. :),positive,so satisfied! exceeded my expectations
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Best experience ever, highly recommend to everyone. :)",positive,best experience ever highly recommend to everyone
+"Check this out Best experience ever, highly recommend to everyone.",positive,check this out best experience ever highly recommend to everyone
+"It's okay, nothing special about it.",neutral,its okay nothing special about it
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Really bad experience, will never come back. :)",negative,really bad experience will never come back
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Absolutely wonderful, five stars. http://example.com",positive,absolutely wonderful five stars
+Check this out So satisfied! Exceeded my expectations.,positive,check this out so satisfied! exceeded my expectations
+"I love the new product, it's fantastic and works great! :)",positive,i love the new product its fantastic and works great!
+"Average experience, neither good nor bad. http://example.com",neutral,average experience neither good nor bad
+Product is fine for the price.,neutral,product is fine for the price
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+Amazing service — I'm very happy with my purchase. :) http://example.com,positive,amazing service im very happy with my purchase
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+Works as described.,neutral,works as described
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+"Best experience ever, highly recommend to everyone. :)",positive,best experience ever highly recommend to everyone
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+Awful product. Do not buy!,negative,awful product do not buy!
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+Product is fine for the price.,neutral,product is fine for the price
+"Terrible service, very disappointed. :)",negative,terrible service very disappointed
+Awful product. Do not buy!,negative,awful product do not buy!
+"I love the new product, it's fantastic and works great! :)",positive,i love the new product its fantastic and works great!
+"It's okay, nothing special about it. :)",neutral,its okay nothing special about it
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+Check this out So satisfied! Exceeded my expectations.,positive,check this out so satisfied! exceeded my expectations
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+Check this out So satisfied! Exceeded my expectations.,positive,check this out so satisfied! exceeded my expectations
+"Check this out Terrible service, very disappointed. :)",negative,check this out terrible service very disappointed
+Product is fine for the price.,neutral,product is fine for the price
+"It's okay, nothing special about it.",neutral,its okay nothing special about it
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+Awful product. Do not buy!,negative,awful product do not buy!
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Best experience ever, highly recommend to everyone. :)",positive,best experience ever highly recommend to everyone
+"I hate this, it's the worst purchase I've made.",negative,i hate this its the worst purchase ive made
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+Awful product. Do not buy! :),negative,awful product do not buy!
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+Awful product. Do not buy! http://example.com,negative,awful product do not buy!
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Check this out Terrible service, very disappointed. :)",negative,check this out terrible service very disappointed
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+Works as described.,neutral,works as described
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+Amazing service — I'm very happy with my purchase. :),positive,amazing service im very happy with my purchase
+"I hate this, it's the worst purchase I've made. :)",negative,i hate this its the worst purchase ive made
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Terrible service, very disappointed. :)",negative,terrible service very disappointed
+"Terrible service, very disappointed. :)",negative,terrible service very disappointed
+Product is fine for the price.,neutral,product is fine for the price
+"One star, extremely poor quality.",negative,one star extremely poor quality
+So satisfied! Exceeded my expectations. :),positive,so satisfied! exceeded my expectations
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"One star, extremely poor quality.",negative,one star extremely poor quality
+Works as described. :) http://example.com,neutral,works as described
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+"It's okay, nothing special about it. :)",neutral,its okay nothing special about it
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"One star, extremely poor quality.",negative,one star extremely poor quality
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"One star, extremely poor quality. :)",negative,one star extremely poor quality
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Check this out Best experience ever, highly recommend to everyone.",positive,check this out best experience ever highly recommend to everyone
+Check this out Awful product. Do not buy! :),negative,check this out awful product do not buy!
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"I love the new product, it's fantastic and works great! http://example.com",positive,i love the new product its fantastic and works great!
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+Awful product. Do not buy!,negative,awful product do not buy!
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"One star, extremely poor quality.",negative,one star extremely poor quality
+Check this out Amazing service — I'm very happy with my purchase.,positive,check this out amazing service im very happy with my purchase
+Works as described. :),neutral,works as described
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"I hate this, it's the worst purchase I've made. :)",negative,i hate this its the worst purchase ive made
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+Product is fine for the price. http://example.com,neutral,product is fine for the price
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+"One star, extremely poor quality.",negative,one star extremely poor quality
+Works as described.,neutral,works as described
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"It's okay, nothing special about it.",neutral,its okay nothing special about it
+"Absolutely wonderful, five stars. http://example.com",positive,absolutely wonderful five stars
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+Amazing service — I'm very happy with my purchase. http://example.com,positive,amazing service im very happy with my purchase
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+So satisfied! Exceeded my expectations. :),positive,so satisfied! exceeded my expectations
+So satisfied! Exceeded my expectations. :),positive,so satisfied! exceeded my expectations
+Awful product. Do not buy!,negative,awful product do not buy!
+Awful product. Do not buy! :) http://example.com,negative,awful product do not buy!
+"Check this out Best experience ever, highly recommend to everyone.",positive,check this out best experience ever highly recommend to everyone
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Absolutely wonderful, five stars.",positive,absolutely wonderful five stars
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+Works as described. :),neutral,works as described
+"Check this out Absolutely wonderful, five stars. :)",positive,check this out absolutely wonderful five stars
+"I hate this, it's the worst purchase I've made. :)",negative,i hate this its the worst purchase ive made
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+Awful product. Do not buy!,negative,awful product do not buy!
+"Best experience ever, highly recommend to everyone. :)",positive,best experience ever highly recommend to everyone
+So satisfied! Exceeded my expectations. http://example.com,positive,so satisfied! exceeded my expectations
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"Check this out Terrible service, very disappointed.",negative,check this out terrible service very disappointed
+Check this out Works as described.,neutral,check this out works as described
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+Product is fine for the price.,neutral,product is fine for the price
+"Check this out Terrible service, very disappointed.",negative,check this out terrible service very disappointed
+"Terrible service, very disappointed. :)",negative,terrible service very disappointed
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+Works as described.,neutral,works as described
+"One star, extremely poor quality.",negative,one star extremely poor quality
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"It's okay, nothing special about it.",neutral,its okay nothing special about it
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+Awful product. Do not buy!,negative,awful product do not buy!
+"Terrible service, very disappointed.",negative,terrible service very disappointed
+"Average experience, neither good nor bad.",neutral,average experience neither good nor bad
+"I hate this, it's the worst purchase I've made. :)",negative,i hate this its the worst purchase ive made
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+"I love the new product, it's fantastic and works great!",positive,i love the new product its fantastic and works great!
+"Check this out I hate this, it's the worst purchase I've made.",negative,check this out i hate this its the worst purchase ive made
+So satisfied! Exceeded my expectations.,positive,so satisfied! exceeded my expectations
+"Really bad experience, will never come back.",negative,really bad experience will never come back
+Amazing service — I'm very happy with my purchase.,positive,amazing service im very happy with my purchase
+Awful product. Do not buy!,negative,awful product do not buy!
+"Best experience ever, highly recommend to everyone.",positive,best experience ever highly recommend to everyone
+"Not sure how I feel about it, it's indifferent.",neutral,not sure how i feel about it its indifferent
+"Check this out Really bad experience, will never come back.",negative,check this out really bad experience will never come back
+Works as described.,neutral,works as described
+"Check this out I love the new product, it's fantastic and works great!",positive,check this out i love the new product its fantastic and works great!
+Product is fine for the price. :),neutral,product is fine for the price
+Product is fine for the price.,neutral,product is fine for the price
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
+"Absolutely wonderful, five stars. :)",positive,absolutely wonderful five stars
