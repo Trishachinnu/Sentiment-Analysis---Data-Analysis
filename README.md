@@ -68,9 +68,9 @@ jupyter notebook sentiment_analysis_notebook.ipynb
 
 Create a requirements.txt with:
 
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-nltk
+1. pandas
+2. numpy
+3. scikit-learn
+4. matplotlib
+5. seaborn
+6. nltk
